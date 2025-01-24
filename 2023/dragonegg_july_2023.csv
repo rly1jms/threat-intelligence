@@ -1,0 +1,14 @@
+Malware Family,IOC Type,IOC
+DragonEgg,SHA1,b456a61a3e0ac6073a716b06293a3295a261de56
+DragonEgg,SHA1,209567f4f28c5c8abcbe56d789e558aa64239534
+DragonEgg,SHA1,b456a61a3e0ac6073a716b06293a3295a261de56
+DragonEgg,SHA1,cab70e99516a36ab0f0d3851375adf0740f4bd5e
+DragonEgg,SHA1,81762cfae0bd5585e8c0c86e4fdbbe47d2dd614a
+DragonEgg,SHA1,fbda76a2c2834f89d642a72c24b1988a1f56e4b8
+DragonEgg,IP,118.193.39.165
+DragonEgg,IP,121.201.109.98
+DragonEgg,Domain,alxc.tbtianyan.com
+DragonEgg,Domain,yxwasec.com
+DragonEgg,Domain,smiss.imwork.net
+DragonEgg,Domain,huaxin-bantian.duckdns.org
+DragonEgg,IP,103.43.17.99
